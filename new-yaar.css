@@ -1,0 +1,96 @@
+body{
+    font-family: "Work Sans", sans-serif;
+    margin: 0 auto;
+}
+.btn-primary{
+    border-radius: 5px;
+    background:#FD6E0A ;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    padding: 15px 35px;
+    margin-top: 40px;
+}
+.heading-primary{
+    font-size: 40px;
+    color:#151414 ;
+}
+/* Header Styles */
+header{
+    background-image: url(images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    margin-bottom: 0;
+}
+.header-content{
+    text-align: right;
+    padding: 100px 200px 600px 800px ;
+    
+}
+.header-title{
+    font-size: 65px;
+    color: #151414;
+    margin-bottom: 5px;
+}
+.header-des{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+/* Main Section Styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* Failure Section Styles */
+.failure{
+    margin-top: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.failure-content{
+    margin-right: 40px;
+    margin-left: 20px;
+}
+.failure ul li{
+    list-style: none;
+    margin-bottom: 10px;
+    margin-top: 10x;
+}
+.failure ul{
+    padding-left: 0;
+}
+/* Plan Styles */
+.plan{
+    margin-top: 130px;
+    text-align: center;
+}
+.plan-content{
+    display: flex;
+    gap:30px;
+    justify-content: space-around;
+}
+.plan-title{
+    margin-top: 10px;
+    font-size: 30px;
+    color:#151414;
+    margin-bottom: 10px;
+}
+.plan-des{
+    margin-top: 10px;
+    font-size:25px ;
+    font-weight: 600px;
+    color:#737272 ;
+}
+/* Positive Section Styles */
+.positive{
+    margin-top: 130px;
+    background-image: url(images/watch.png);
+    padding: 50px;
+    background-repeat: no-repeat;
+   background-position: top right;
+}
+
+
